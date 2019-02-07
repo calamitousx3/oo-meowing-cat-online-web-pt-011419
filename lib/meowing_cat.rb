@@ -4,6 +4,6 @@ class Cat
   
 end
 
-maru = cat.new 
+maru = Cat.new 
 maru.meow = "Meow!"
 maru.meow 
